@@ -1,0 +1,593 @@
+[
+  {
+    "/dpdx/acanthocephaliasis/index.html": [
+      "Acanthocephaliasis",
+      "Macracanthorhynchus hirudinaceous",
+      "Moniliformis moniliformis"
+    ]
+  },
+  {
+    "/dpdx/amebiasis/index.html": [
+      "Amebiasis",
+      "Entamoeba histolytica"
+    ]
+  },
+  {
+    "/dpdx/anatrichosoma/index.html": [
+      "Anatrichosoma"
+    ]
+  },
+  {
+    "/dpdx/angiostrongyliasis_can/index.html": [
+      "Angiostrongyliasis",
+      "Angiostrongylus cantonensis"
+    ]
+  },
+  {
+    "/dpdx/angiostrongyliasis_cos/index.html": [
+      "Angiostrongylus costaricensis"
+    ]
+  },
+  {
+    "/dpdx/anisakiasis/index.html": [
+      "Anisakiasis",
+      "Anisakis simplex",
+      "Pseudoterranova decipiens"
+    ]
+  },
+  {
+    "/dpdx/artifacts/index.html": [
+      "Artifacts"
+    ]
+  },
+  {
+    "/dpdx/ascariasis/index.html": [
+      "Ascariasis",
+      "Ascaris lumbricoides"
+    ]
+  },
+  {
+    "/dpdx/babesiosis/index.html": [
+      "Babesia divergens",
+      "Babesia microti",
+      "Babesiosis"
+    ]
+  },
+  {
+    "/dpdx/balantidiasis/index.html": [
+      "Balantidiasis",
+      "Balantidium coli"
+    ]
+  },
+  {
+    "/dpdx/baylisascariasis/index.html": [
+      "Baylisascariasis",
+      "Baylisascaris procyonis"
+    ]
+  },
+  {
+    "/dpdx/bedbugs/index.html": [
+      "Bed Bugs",
+      "Cimex hemipterus",
+      "Cimex lectularius"
+    ]
+  },
+  {
+    "/dpdx/bertiella/index.html": [
+      "Bertiella mucronata",
+      "Bertiella studeri",
+      "Bertiella"
+    ]
+  },
+  {
+    "/dpdx/blastocystis/index.html": [
+      "Blastocystis hominis"
+    ]
+  },
+  {
+    "/dpdx/cercarialdermatitis/index.html": [
+      "Cercarial dermatitis",
+      "Swimmer\u2019s itch (Cercarial dermatitis)"
+    ]
+  },
+  {
+    "/dpdx/chilomastix/index.html": [
+      "Chilomastix mesnili"
+    ]
+  },
+  {
+    "/dpdx/clonorchiasis/index.html": [
+      "Clonorchis sinensis",
+      "Clonorchiasis"
+    ]
+  },
+  {
+    "/dpdx/coenurosis/index.html": [
+      "Coenurosis",
+      "Taenia multiceps",
+      "Taenia serialis"
+    ]
+  },
+  {
+    "/dpdx/cryptosporidiosis/index.html": [
+      "Cryptosporidiosis",
+      "Cryptosporidium"
+    ]
+  },
+  {
+    "/dpdx/cyclosporiasis/index.html": [
+      "Cyclospora cayetanensis",
+      "Cyclosporiasis"
+    ]
+  },
+  {
+    "/dpdx/cysticercosis/index.html": [
+      "Cysticercosis",
+      "Taenia solium (Cysticercosis)"
+    ]
+  },
+  {
+    "/dpdx/cystoisosporiasis/index.html": [
+      "Cystoisospora belli",
+      "Cystoisosporiasis",
+      "Isospora belli",
+      "Isosporiasis"
+    ]
+  },
+  {
+    "/dpdx/dicrocoeliasis/index.html": [
+      "Dicrocoeliasis",
+      "Dicrocoelium dendriticum"
+    ]
+  },
+  {
+    "/dpdx/dientamoeba/index.html": [
+      "Dientamoeba fragilis"
+    ]
+  },
+  {
+    "/dpdx/dioctophymiasis/index.html": [
+      "Dioctophyme renale",
+      "Dioctophymiasis"
+    ]
+  },
+  {
+    "/dpdx/diphyllobothriasis/index.html": [
+      "Diphyllobothriasis",
+      "Diphyllobothrium latum"
+    ]
+  },
+  {
+    "/dpdx/dipylidium/index.html": [
+      "Dipylidium caninum"
+    ]
+  },
+  {
+    "/dpdx/dirofilariasis/index.html": [
+      "Dirofilaria immitis",
+      "Dirofilariasis"
+    ]
+  },
+  {
+    "/dpdx/dracunculiasis/index.html": [
+      "Dracunculiasis",
+      "Drancunculus medinensis",
+      "Guinea Worm Disease (Dracunculiasis)"
+    ]
+  },
+  {
+    "/dpdx/echinococcosis/index.html": [
+      "Echinococcosis (Hydatid disease)",
+      "Echinococcus granulosus",
+      "Echinococcus multilocularis",
+      "Echinococcus oligarthrus",
+      "Echinococcus vogeli",
+      "Hydatid disease (Echinococcosis)"
+    ]
+  },
+  {
+    "/dpdx/echinostomiasis/index.html": [
+      "Echinostoma spp.",
+      "Echinostomiasis"
+    ]
+  },
+  {
+    "/dpdx/entamoebagingivalis/index.html": [
+      "Entamoeba gingivalis"
+    ]
+  },
+  {
+    "/dpdx/enterobiasis/index.html": [
+      "Enterobiasis (Pinworm Infection)",
+      "Enterobius vermicularis",
+      "Pinworm Infection (Enterobiasis)"
+    ]
+  },
+  {
+    "/dpdx/fascioliasis/index.html": [
+      "Fasciola hepatica",
+      "Fascioliasis"
+    ]
+  },
+  {
+    "/dpdx/fasciolopsiasis/index.html": [
+      "Fasciolopsiasis",
+      "Fasciolopsis buski"
+    ]
+  },
+  {
+    "/dpdx/fleas/index.html": [
+      "Ctenocephalides canis",
+      "Ctenocephalides felis",
+      "Fleas"
+    ]
+  },
+  {
+    "/dpdx/freelivingamebic/index.html": [
+      "Acanthamoeba",
+      "Balamuthia mandrillaris",
+      "Free-living amebic infections",
+      "Naegleria fowleri",
+      "Sappinia pedata"
+    ]
+  },
+  {
+    "/dpdx/giardiasis/index.html": [
+      "Giardia duodenalis (syn. G. lamblia, G. intestinalis)",
+      "Giardiasis"
+    ]
+  },
+  {
+    "/dpdx/gnathostomiasis/index.html": [
+      "Gnathostoma hispidum",
+      "Gnathostoma spinigerum",
+      "Gnathostomiasis"
+    ]
+  },
+  {
+    "/dpdx/gongylonema/index.html": [
+      "Gongylonema",
+      "Gongylonema pulchrum"
+    ]
+  },
+  {
+    "/dpdx/hepaticcapillariasis/index.html": [
+      "Capillaria hepatica",
+      "Capillariasis, Hepatic"
+    ]
+  },
+  {
+    "/dpdx/heterophyiasis/index.html": [
+      "Heterophyes heterophyes",
+      "Heterophyiasis"
+    ]
+  },
+  {
+    "/dpdx/hookworm/index.html": [
+      "Ancylostoma ceylanicum",
+      "Ancylostoma duodenale",
+      "Ancylostomiasis (Hookworm)",
+      "Hookworm (Ancylostomiasis)",
+      "Larva migrans, cutaneous",
+      "Necator americanus"
+    ]
+  },
+  {
+    "/dpdx/hymenolepiasis/index.html": [
+      "Hymenolepiasis",
+      "Hymenolepis diminuta",
+      "Hymenolepis nana"
+    ]
+  },
+  {
+    "/dpdx/inermicapsifer/index.html": [
+      "Inermicapsifer madagascariensis"
+    ]
+  },
+  {
+    "/dpdx/intestinalamebae/index.html": [
+      "Endolimax nana",
+      "Entamoeba coli",
+      "Entamoeba hartmanni",
+      "Entamoeba polecki",
+      "Iodamoeba buetschlii"
+    ]
+  },
+  {
+    "/dpdx/intestinalcapillariasis/index.html": [
+      "Capillaria philippinensis",
+      "Capillariasis, Intestinal"
+    ]
+  },
+  {
+    "/dpdx/leishmaniasis/index.html": [
+      "Kala-azar (Visceral leishmaniasis)",
+      "Leishmania braziliensis",
+      "Leishmania donovani",
+      "Leishmania tropica",
+      "Leishmaniasis",
+      "Leishmaniasis",
+      "Visceral leishmaniasis"
+    ]
+  },
+  {
+    "/dpdx/loiasis/index.html": [
+      "Loa Loa",
+      "Loaiasis"
+    ]
+  },
+  {
+    "/dpdx/lymphaticfilariasis/index.html": [
+      "Bancroftian filariasis",
+      "Brugia malayi",
+      "Brugia timori",
+      "Lymphatic Filariasis",
+      "Wuchereria bancrofti"
+    ]
+  },
+  {
+    "/dpdx/malaria/index.html": [
+      "Malaria",
+      "Plasmodium falciparum",
+      "Plasmodium knowlesi",
+      "Plasmodium malariae",
+      "Plasmodium ovale",
+      "Plasmodium vivax"
+    ]
+  },
+  {
+    "/dpdx/mansonellosis/index.html": [
+      "Mansonella ozzardi",
+      "Mansonella perstans",
+      "Mansonella streptocerca",
+      "Mansonellosis"
+    ]
+  },
+  {
+    "/dpdx/mesocestoidiasis/index.html": [
+      "Mesocestoides spp.",
+      "Mesocestoidiasis"
+    ]
+  },
+  {
+    "/dpdx/metagonimiasis/index.html": [
+      "Metagonimus yokogawai",
+      "Metagonimiasis"
+    ]
+  },
+  {
+    "/dpdx/microsporidiosis/index.html": [
+      "Encephalitozoon cuniculi",
+      "Encephalitozoon hellem",
+      "Encephalitozoon intestinalis",
+      "Enterocytozoon bieneusi",
+      "Microsporidiosis",
+      "Microsporidium",
+      "Nosema spp.",
+      "Pleistophora spp.",
+      "Trachipleistophora hominis",
+      "Vittaforma corneae"
+    ]
+  },
+  {
+    "/dpdx/myiasis/index.html": [
+      "Bot Flies",
+      "Cuterebra spp.",
+      "Dermatobia hominis",
+      "Myiasis",
+      "Oestrus ovis",
+      "Phaenicia spp.",
+      "Phormia regina"
+    ]
+  },
+  {
+    "/dpdx/nonpathogenic_flagellates/index.html": [
+      "Enteromonas hominis",
+      "Non-pathogenic Flagellates",
+      "Pentatrichomonas hominis",
+      "Retortamonas intestinalis"
+    ]
+  },
+  {
+    "/dpdx/oesophagostomiasis/index.html": [
+      "Oesophagostomiasis",
+      "Oesophagostomum spp."
+    ]
+  },
+  {
+    "/dpdx/onchocerciasis/index.html": [
+      "Onchocerca volvulus",
+      "Onchocerciasis (River Blindness)",
+      "River Blindness (Onchocerciasis)"
+    ]
+  },
+  {
+    "/dpdx/opisthorchiasis/index.html": [
+      "Opisthorchiasis",
+      "Opisthorchis felineus",
+      "Opisthorchis viverrini"
+    ]
+  },
+  {
+    "/dpdx/paragonimiasis/index.html": [
+      "Paragonimiasis",
+      "Paragonimus westermani"
+    ]
+  },
+  {
+    "/dpdx/pediculosis/index.html": [
+      "Lice, Head",
+      "Pediculosis"
+    ]
+  },
+  {
+    "/dpdx/philophthalmiasis/index.html": [
+      "Philophthalmiasis",
+      "Philophthalmus spp."
+    ]
+  },
+  {
+    "/dpdx/pneumocystis/index.html": [
+      "Pneumocystis jirovecii (previously) Pneumocystis carinii)",
+      "Pneumocystis pneumonia (PCP)"
+    ]
+  },
+  {
+    "/dpdx/pthiriasis/index.html": [
+      "Lice, Pubic",
+      "Phthiriasis",
+      "Phthirus pubis"
+    ]
+  },
+  {
+    "/dpdx/raillietina/index.html": [
+      "Raillietina",
+      "Raillietina celebensis"
+    ]
+  },
+  {
+    "/dpdx/sarcocystosis/index.html": [
+      "Sarcocystis hominis",
+      "Sarcocystis suihominis",
+      "Sarcocystis spp.",
+      "Sarcocystosis"
+    ]
+  },
+  {
+    "/dpdx/scabies/index.html": [
+      "Sarcoptes scabiei",
+      "Scabies"
+    ]
+  },
+  {
+    "/dpdx/schistosomiasis/index.html": [
+      "Bilharziasis (Schistosomiasis)",
+      "Schistosoma haematobium",
+      "Schistosoma intercalatum",
+      "Schistosoma japonicum",
+      "Schistosoma mansoni",
+      "Schistosoma mekongi",
+      "Schistosomiasis (Bilharziasis)"
+    ]
+  },
+  {
+    "/dpdx/sparganosis/index.html": [
+      "Sparganosis",
+      "Sparganum proliferum",
+      "Spirometra erinacei",
+      "Spirometra mansoni",
+      "Spirometra mansonoides",
+      "Spirometra ranarum"
+    ]
+  },
+  {
+    "/dpdx/strongyloidiasis/index.html": [
+      "Strongyloides stercoralis",
+      "Strongyloidiasis"
+    ]
+  },
+  {
+    "/dpdx/taeniasis/index.html": [
+      "Taenia asiatica",
+      "Taenia saginata",
+      "Taenia solium (Taeniasis)",
+      "Taeniasis"
+    ]
+  },
+  {
+    "/dpdx/thelaziasis/index.html": [
+      "Thelaziasis",
+      "Thelazia spp."
+    ]
+  },
+  {
+    "/dpdx/ticks/index.html": [
+      "Amblyomma americanum",
+      "Amblyomma spp.",
+      "Dermacentor andersoni",
+      "Dermacentor variabilis",
+      "Ixodes scapularis",
+      "Ixodes spp.",
+      "Ornithodoros moubata",
+      "Ornithodoros turicata",
+      "Rhipicephalus sanguineus",
+      "ticks (hard)",
+      "ticks (soft)"
+    ]
+  },
+  {
+    "/dpdx/toxocariasis/index.html": [
+      "Larva migrans,ocular",
+      "Larva migrans,visceral",
+      "Toxocara canis",
+      "Toxocara cati",
+      "Toxocariasis"
+    ]
+  },
+  {
+    "/dpdx/toxoplasmosis/index.html": [
+      "Toxoplasma gondii",
+      "Toxoplasmosis"
+    ]
+  },
+  {
+    "/dpdx/trichinellosis/index.html": [
+      "Trichinella britovi",
+      "Trichinella nativa",
+      "Trichinella nelsoni",
+      "Trichinella pseudospiralis",
+      "Trichinella spiralis",
+      "Trichinellosis",
+      "Trichinosis"
+    ]
+  },
+  {
+    "/dpdx/trichomoniasis/index.html": [
+      "Trichomonas vaginalis",
+      "Trichomoniasis"
+    ]
+  },
+  {
+    "/dpdx/trichostrongylosis/index.html": [
+      "Trichostrongylosis",
+      "Trichostrongylus spp."
+    ]
+  },
+  {
+    "/dpdx/trichuriasis/index.html": [
+      "Trichuriasis",
+      "Trichuris trichiura",
+      "Whipworm (Trichuriasis)"
+    ]
+  },
+  {
+    "/dpdx/trypanosomiasisafrican/index.html": [
+      "African trypanosomiasis",
+      "Sleeping Sickness, African (African trypanosomiasis)",
+      "Trypanosoma brucei gambiense",
+      "Trypanosoma brucei rhodesiense",
+      "Trypanosomiasis, African (African sleeping sickness)"
+    ]
+  },
+  {
+    "/dpdx/trypanosomiasisamerican/index.html": [
+      "American trypanosomiasis",
+      "Chagas disease (American trypanosomiasis)",
+      "Trypanosoma cruzi",
+      "Trypanosomiasis, American (Chagas disease)"
+    ]
+  },
+  {
+    "/dpdx/tungiasis/index.html": [
+      "Tunga penetrans",
+      "Tungiasis"
+    ]
+  },
+  {
+    "/dpdx/zoonotichookworm/index.html": [
+      "Ancylostoma braziliense",
+      "Ancylostoma caninum",
+      "Uncinaria stenocephala"
+    ]
+  }
+]
